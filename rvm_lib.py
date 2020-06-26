@@ -23,7 +23,7 @@ class ReverseVendingMachine:
         
         # IOTA seed used for payment transaction
         # Replace with your own devnet seed
-        seed = b"YOUR9SEED9GOES9HERE......"
+        seed = b"YOUR9SEED9GOES9HERE"
         
         # URL to IOTA fullnode used when interacting with the Tangle
         iotaNode = "https://nodes.devnet.iota.org:443"
