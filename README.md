@@ -139,8 +139,6 @@ rvm = ReverseVendingMachine(vs)
 rvm.root.mainloop()
 ```
 
-<iframe src="https://medium.com/media/f7fed340d9ccc05885530c0f5be4a0fb" allowfullscreen="" frameborder="0" height="369" width="680" title="rvm_app.py" class="s t u dq ai" scrolling="auto" style="box-sizing: inherit; position: absolute; top: 0px; left: 0px; width: 680px; height: 369px;"></iframe>
-
 You can download the source code from [here](https://gist.github.com/huggre/2f4c7b181b221345fd7432edcc15056c)
 
 and here is the **rvm_lib.py** file:
@@ -372,18 +370,13 @@ class ReverseVendingMachine:
 
 
 
-<iframe src="https://medium.com/media/f24feda9d58a5544e09f9a4e34b04b97" allowfullscreen="" frameborder="0" height="4940" width="680" title="rvm_lib.py" class="s t u dq ai" scrolling="auto" style="box-sizing: inherit; position: absolute; top: 0px; left: 0px; width: 680px; height: 4940px;"></iframe>
-
 You can download the source code from [here](https://gist.github.com/huggre/5815111ed70f5b0ed456ff5c979e3d4a)
 
-<iframe src="https://medium.com/media/b2358363feb18572609d48e602f45e3b" allowfullscreen="" frameborder="0" height="126" width="680" title="barcodesdb.csv" class="s t u dq ai" scrolling="auto" style="box-sizing: inherit; position: absolute; top: 0px; left: 0px; width: 680px; height: 126px;"></iframe>
 
 ```
 7030019532240,10
 7310070786937,25
 ```
-
-
 
 You also need the barcodesdb.csv file that you will find [here](https://gist.github.com/huggre/87ad61d5c8558729e80d4f6a447a7841)
 
